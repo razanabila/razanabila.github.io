@@ -3,4 +3,4 @@
 
 <p><strong>Creator: <a href="https://github.com/razanabila">@razanabila</a> | <a href="https://github.com/rendimarzikri">@rendimarzikri</a></strong></p>
 
-<small style="color: gray">Collaboration starts on May 26, 2026</small>
+<p style="color: #666">Collaboration starts on May 26, 2026</p>
