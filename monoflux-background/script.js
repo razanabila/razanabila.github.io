@@ -1,0 +1,9 @@
+const script = document.getElementById("script");
+const monofluxscript = document.createElement("script");
+monofluxscript.src = "https://monoflux.vercel.app/javascript/cdn/background/v2/script.js";
+window.BG_CONFIG = {
+  count: 60,
+  maxSize: 15,
+  eatDist: 10
+};
+script.appendChild(monofluxscript);
